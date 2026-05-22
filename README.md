@@ -5,7 +5,7 @@ RuralCare is a multilingual telemedicine and medicine delivery platform designed
 ---
 
 ## 🌐 Live Demo
-[Click Here to View Project](https://rural-care-telemedicine-client-oidx.vercel.app/)
+[Click Here to View Project](https://rural-care-telemedicine-client.vercel.app/)
 
 ---
 
